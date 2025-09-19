@@ -1,0 +1,23 @@
+{
+  "slug": "MyPlugin4",
+  "name": "MyPlugin4",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "MyPlugin4",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "MyModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
